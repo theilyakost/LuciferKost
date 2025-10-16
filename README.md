@@ -1,4 +1,4 @@
-# <samp>Lucifer Kost // Frontend Architect</samp>
+# <samp>Ilya Kost // Frontend Architect</samp>
 
 > Challenging mediocrity in the frontend. Demanding excellence in every pixel.
 
@@ -17,14 +17,12 @@ Frontend development deserves more than just 'working' code. I focus on crafting
 ### <samp>Core Toolkit</samp>
 
 <p align="left"> 
-  <!-- Main Frontend Technology -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   <a href="https://www.sencha.com/products/extjs/" target="_blank"><img src="https://img.shields.io/badge/Ext_JS-73B549?style=for-the-badge&logo=sencha&logoColor=white" alt="Ext JS"></a>
-  <!-- Desktop & Systems -->
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
 </p>
